@@ -47,5 +47,5 @@ int main() {
 
     std::cout << "" << std::endl;
     std::cout << "" << std::endl;
-    std::cout << "Better luck with someone else!" << std::endl;
+    std::cout << "Good luck with your dating!" << std::endl;
 }
